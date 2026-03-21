@@ -1,0 +1,35 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "This is Namste React By Preetham",
+  "keywords": [
+    "react",
+    "Namste",
+    "react"
+  ],
+  "homepage": "https://github.com/Preetham-ch153/Namaste-react#readme",
+  "bugs": {
+    "url": "https://github.com/Preetham-ch153/Namaste-react/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Preetham-ch153/Namaste-react.git"
+  },
+  "license": "ISC",
+  "author": "Preetham",
+  "type": "commonjs",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  },
+  "dependencies": {
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4"
+  },
+    "browserslist": [
+    "Last 2 chrome version",
+    "Last 2 firefox version"
+  ]
+}
